@@ -1,9 +1,0 @@
-Tipe Data Python
-Data Primitive =
-    -Integer (Int) -> Numerikal ( menggunakan bil. bulat)
-    -String (Str) -> Character A-Z, 1-9, Special Char
-string (tidak bisa dioperasikan layaknya numerik)
-    -Float (float) -> mirip dengan integer, tapi  angka desimal (dapat menggunakan koma)
-    -Boolean (bool) -> representasi sebuah nilai True/False, 0/1
-
-Data Non Primitif = 

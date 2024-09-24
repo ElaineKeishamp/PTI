@@ -1,0 +1,17 @@
+Tipe Data Python
+1. variable declaration
+Data Primitive =
+    -Integer (Int) -> Numerikal ( menggunakan bil. bulat)
+    -String (Str) -> Character A-Z, 1-9, Special Char
+string (tidak bisa dioperasikan layaknya numerik)
+   -Float (float) -> mirip dengan integer, tapi  angka desimal (dapat menggunakan koma)
+    -Boolean (bool) -> representasi sebuah nilai True/False, 0/1
+Data non primitif =
+2. Operators = +, - *, \
+
+3. perulangan
+#for statement
+#i = 0
+#for i in range (10):
+#perulangan menggunakan for dan while
+# if(baris2 % 2 ==0):
